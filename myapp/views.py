@@ -4,4 +4,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def deploy_check(request):
-    return HttpResponse("<h1>Deployment Successful!</h1><p>If you see this message, your app is working correctly.</p>")
+    return HttpResponse("<h1>Deployment unbelievable Successful!</h1><p>If you see this message, your app is working correctly.</p>")
